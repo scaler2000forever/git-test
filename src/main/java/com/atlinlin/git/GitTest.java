@@ -7,5 +7,8 @@ package com.atlinlin.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git!");
+        System.out.println("hello git2!");
+        System.out.println("hello git2 commit directly!");
+        System.out.println("正常合并");
     }
 }
